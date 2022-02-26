@@ -1,0 +1,7 @@
+MaxBank-server/
+MaxBank-server/data/auto.cnf
+MaxBank-server/docker-compose.yml
+MaxBank-server/data/mysql-bin.000002
+MaxBank-server/env/mysql.env
+MaxBank-server/data/mysql-bin.index
+MaxBank-server/etc/my.cnf
