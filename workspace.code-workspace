@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "MaxBank",
+			"path": "../../../../var/lib/mysql/MaxBank"
+		}
+	],
+	"settings": {
+		"dataworkspace.excludedProjects": [
+			"MaxBank/MaxBank/MaxBank.sqlproj",
+			"MaxBank/MaxBank-server/MaxBank.sqlproj",
+			"Documentos/MaxBank/MaxBank-server/MaxBank.sqlproj"
+		]
+	}
+}
